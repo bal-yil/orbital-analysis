@@ -1,7 +1,7 @@
 feature,importance
-mean_motion_diff,0.76984835
-ecc_diff,0.07233423
-raan_diff,0.05348038
-incl_diff,0.04444631
-argp_diff,0.031110844
-mean_anomaly_diff,0.0287799
+mean_motion_diff,0.7363
+ecc_diff,0.09031732
+raan_diff,0.068579905
+argp_diff,0.038278032
+incl_diff,0.036131788
+mean_anomaly_diff,0.03039298

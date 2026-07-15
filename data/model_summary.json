@@ -1,0 +1,10 @@
+{
+  "cross_validated_roc_auc_mean": 0.9737623682167769,
+  "cross_validated_roc_auc_std": 0.0025631924981513966,
+  "default_threshold_recall": 0.96,
+  "default_threshold_precision": 0.8,
+  "tuned_threshold": 0.0372147262096405,
+  "tuned_threshold_recall": 0.9942528735632183,
+  "tuned_threshold_precision": 0.6731517509727627,
+  "brier_score": 0.05558282136917114
+}
